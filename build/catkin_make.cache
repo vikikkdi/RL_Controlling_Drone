@@ -1,0 +1,2 @@
+RL-Quadcopter/quad_controller_rl
+-DCATKIN_DEVEL_PREFIX=/home/robond/quad/devel -DCMAKE_INSTALL_PREFIX=/home/robond/quad/install -G Unix Makefiles
